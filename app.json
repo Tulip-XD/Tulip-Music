@@ -1,7 +1,7 @@
 {
-    "name": "Naruto Music Bot",
+    "name": "Tulip Music Bot",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "logo": "https://te.legra.ph/file/d59de4d4dfbfe5eb3299b.png",
+    "logo": "https://te.legra.ph/file/c7efc5ee39166fbf709ef.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -24,7 +24,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "Pyrogram session string https://t.me/String_Sessiion_BOT",
+        "description": "Pyrogram session string https://t.me/Tulip_String_Bot",
         "required": true
       },
       "SUDOERS": {
