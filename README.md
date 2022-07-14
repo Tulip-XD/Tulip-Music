@@ -1,7 +1,7 @@
 ## 🌷 𝗧ᴜʟɪᴘ 🌷
 ---
 <p align="center"><a href="https://t.me/ITz_Tulip_XD"><img src="https://te.legra.ph/file/c7efc5ee39166fbf709ef.jpg" width="300"></a></p>
-<p align="center"><a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=purple" /></a>
+<p align="center"><a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=grape" /></a>
 
 ---
   
