@@ -20,8 +20,8 @@ from core import (
 
 REPO = """
 👨‍💻**Naruto Music Player**👨‍💻
-- Repo: [GitHub](https://github.com/NarutoRepo/Naruto-Music)
-- ⚜ [Owner](https://t.me/NarutoRepo) ⚜
+- Repo: [GitHub](https://github.com/Tulip-XD/Tulip-Music)
+- ⚜ [Owner](https://t.me/ITz_Tulip_XD) ⚜
 """
 
 if config.BOT_TOKEN:
