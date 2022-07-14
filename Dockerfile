@@ -11,8 +11,8 @@ COPY requirements.txt /requirements.txt
 RUN cd /
 RUN pip3 install --upgrade pip
 RUN pip3 install -U -r requirements.txt
-RUN mkdir /Naruto-Music
-WORKDIR /Naruto-Music
+RUN mkdir /Tulip-Music
+WORKDIR /Tulip-Music
 COPY startup.sh /startup.sh
 
 # Running Music Player Bot
