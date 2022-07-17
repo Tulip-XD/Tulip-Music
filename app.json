@@ -12,7 +12,7 @@
       "python",
       "pyrogram",
       "py-tgcalls",
-      "Naruto-Music"
+      "Tulip-Music"
     ],
     "env": {
       "API_ID": {
